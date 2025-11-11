@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Color primario - Verde naturaleza para comida -->
+    <color name="primary">#2E7D32</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#A5D6A7</color>
+    <color name="onPrimaryContainer">#1B5E20</color>
+
+    <!-- Color secundario - Naranja cálido para acentos -->
+    <color name="secondary">#FF6F00</color>
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="secondaryContainer">#FFCC80</color>
+    <color name="onSecondaryContainer">#E65100</color>
+
+    <!-- Color terciario - Rojo tomate para detalles -->
+    <color name="tertiary">#C62828</color>
+    <color name="onTertiary">#FFFFFF</color>
+    <color name="tertiaryContainer">#FFCDD2</color>
+    <color name="onTertiaryContainer">#B71C1C</color>
+
+    <!-- Colores de fondo -->
+    <color name="background">#FFF8F5</color>
+    <color name="onBackground">#1C1B1B</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="onSurface">#1C1B1B</color>
+
+    <!-- Colores de superficie variantes -->
+    <color name="surfaceVariant">#F5E6E0</color>
+    <color name="onSurfaceVariant">#534340</color>
+
+    <!-- Colores de error -->
+    <color name="error">#BA1A1A</color>
+    <color name="onError">#FFFFFF</color>
+    <color name="errorContainer">#FFDAD6</color>
+    <color name="onErrorContainer">#410002</color>
+
+    <!-- Colores outline -->
+    <color name="outline">#85736D</color>
+    <color name="outlineVariant">#D8C2BA</color>
+
+    <!-- Colores para scrim (superposiciones) -->
+    <color name="scrim">#000000</color>
+
+    <!-- Colores de superficie inversa -->
+    <color name="inverseSurface">#31302F</color>
+    <color name="inverseOnSurface">#F4EFEC</color>
+    <color name="inversePrimary">#A5D6A7</color>
+
+    <!-- Colores de superficie con tonalidades -->
+    <color name="surfaceDim">#E8D7D1</color>
+    <color name="surfaceBright">#FFF8F5</color>
+    <color name="surfaceContainerLowest">#FFFFFF</color>
+    <color name="surfaceContainerLow">#FEF2ED</color>
+    <color name="surfaceContainer">#F8ECE6</color>
+    <color name="surfaceContainerHigh">#F2E6E0</color>
+    <color name="surfaceContainerHighest">#ECE0DA</color>
+
+    <!-- Colores personalizados para componentes específicos -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="search_background">#F5E6E0</color>
+    <color name="accent_warm">#FF9800</color>
+    <color name="accent_cool">#4CAF50</color>
+</resources>
